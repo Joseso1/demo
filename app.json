@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CheckListApp",
+    "slug": "CheckListApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CheckListApp"
+}
